@@ -1,1 +1,1 @@
-text examplee
+text example

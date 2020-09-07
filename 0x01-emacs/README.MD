@@ -1,2 +1,2 @@
-Open a file with EMACS
+Some basic function of emacs
 

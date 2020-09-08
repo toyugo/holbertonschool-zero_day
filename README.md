@@ -1,1 +1,1 @@
-This folder is the zero day repo's exercises for holbertonschool
+This folder is the zero day repo's exercises for holbertonschool. (updated)

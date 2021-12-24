@@ -1,1 +1,5 @@
-This folder is the zero day repo's exercises for holbertonschool. (updated)
+Topic Learnt
+===
+- How to run and install a Vagrant virtual machine
+- How to use vim and configure it
+- How to use Emacs and configure it

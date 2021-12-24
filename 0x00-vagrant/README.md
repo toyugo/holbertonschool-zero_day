@@ -1,1 +1,3 @@
-This is ex 0 to use uname function 
+Topics learn
+===
+- How to run Ubuntu and install a vagrant Virtual machine

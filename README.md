@@ -1,4 +1,4 @@
-Topic Learnt
+Topic
 ===
 - How to run and install a Vagrant virtual machine
 - How to use vim and configure it
